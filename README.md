@@ -92,6 +92,12 @@ cd ShareLaTeXINSTALL
 sudo docker-compose up -d
 ```
 
-2. 设置管理员账户
+2. 设置管理员账户网址
 
+```
 http://xx.xx.xx.xx/launchpad
+```
+
+3. 通过管理员账户登陆添加用户，正常使用
+
+访问网址：http://xx.xx.xx.xx
