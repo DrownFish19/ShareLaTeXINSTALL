@@ -45,7 +45,7 @@ sudo apt install docker-compose
 ```
 
 ## 文件下载
-[链接] (https://pan.baidu.com/s/1t-M1zpo3IEQoksfVF_U6fg?pwd=utbs)
+[链接](https://pan.baidu.com/s/1t-M1zpo3IEQoksfVF_U6fg?pwd=utbs)
 
 1. 下载docker镜像文件
 下载后文件目录如下：
